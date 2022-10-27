@@ -42,11 +42,10 @@
     background-color: #00003e;
     margin: auto;
 }
-
 .containerr_c{
     width:100%;  
     height: 714px;
-    background-color: #100c08;    
+    background-color: #100c08;
 }
 
 #span_3{
@@ -55,6 +54,20 @@
 ul.social-icons{
     list-style: none;
     padding-left: 9rem;    
+}
+#edu{
+    color: #dddddd;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height:599px;
+    width:100%;
+}
+#block{    
+    font-size: 25px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 40px;
 }
 .social-icons li{
     display: inline-block;
@@ -71,4 +84,9 @@ span{
 }
 #span_2{
     color: #2AA29C;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-right: 20px;    
 }
